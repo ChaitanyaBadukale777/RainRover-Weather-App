@@ -41,7 +41,7 @@ Press the "Search" button or hit "Enter" to fetch and display the weather foreca
 The app will show the weather conditions for the next 5 days, including temperature, pressure, humidity, wind speed, and visibility.
 
 
-                                                                      ---Acknowledgments--- 
+Acknowledgments
 
 Thanks to OpenWeatherAPI for providing the weather data.
 Inspiration and guidance from various online tutorials and resources.
