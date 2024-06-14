@@ -252,8 +252,8 @@ body{
   background-color: var(--primary);
   color: var(--on-primary);
   height: 48px;
-  line-height: 48px;
-  max-width: max-content;
+/*   line-height: 48px; */
+  max-width: max-content; 
   display: flex;
   align-items: center;
   gap: 16px;
