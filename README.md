@@ -6,7 +6,10 @@ This project is a simple web application built with Vanilla JavaScript and utili
 
 <br />
 
+Live Demo : https://rain-rover.vercel.app/
 <br />
+
+
 
 <br />
 
@@ -34,7 +37,7 @@ This project is a simple web application built with Vanilla JavaScript and utili
 :arrow_forward: Installation
    
 Step : 1 - Clone the repository:
-For Ex : git clone https://github.com/your-username/weather-app.git
+For Ex : ```git clone https://github.com/your-username/weather-app.git```
 
 Step : 2 - Navigate to the project directory:
 For Ex: cd weather-app
